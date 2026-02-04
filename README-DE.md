@@ -14,6 +14,7 @@
 
 ## Aktuelle Projekte
 
+- 🪣 **[S3 Bucket Dashboard](https://github.com/schminkel/s3-bucket-dashboard)** – Ein umfassendes AWS S3-Bucket-Management-Dashboard, das Echtzeit-Überwachung, Dateiverwaltung und Analysen für Cloud-Storage-Operationen bietet. Unverzichtbar für effizientes Cloud-Infrastruktur-Management und optimierte S3-Bucket-Administration.
 - 🔗 **[Link Dashboard](https://links.xtra.tools/)** – Eine elegante Link-Dashboard-App mit kategorisierter Linkverwaltung, intuitiver Drag-and-Drop-Oberfläche und anpassbarem Icon-Management für persönliche Linksammlungen. Perfekt für den täglichen Einsatz.  
 - 🖥️ **[Slide Deck Online](https://p.xtra.tools/)** – Ein minimalistisches Tool zum Online-Teilen von Präsentationen. Lade dein PDF hoch und präsentiere es sofort weltweit – ganz ohne zusätzlichen Aufwand.  
 - 📦 **[PGH Inventory Manager](https://pgh.xtra.tools)** – Bestandsverwaltungssystem für das Projekt *„Schule als Staat 2024“* am Paracelsus-Gymnasium Hohenheim in Stuttgart zur Verwaltung sämtlicher Lagerbestände.  
