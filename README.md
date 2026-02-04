@@ -1,4 +1,4 @@
-# Hi, I'm Thorsten 👋
+# Hi, I'm Thorsten and this is what I am building 👋
 
 📍 **Stuttgart** | 🤖 **Polyagentmorous builder** | 💙 **Working for Capgemini**
 
