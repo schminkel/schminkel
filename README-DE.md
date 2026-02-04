@@ -1,6 +1,7 @@
-# Hi, hier ist eine Sammlung meiner Projekte 👋
+# Eine Sammlung meiner Projekte und technischen Experimente.
 
-📍 **Stuttgart** | 🤖 **Polyagentmorpher Builder** | 💙 **Tätig bei Capgemini**
+📍 **Stuttgart** | 🤖 **Polyagentmorpher Builder** | 💙 **Bei Capgemini tätig**
+
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
