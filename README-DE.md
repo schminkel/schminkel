@@ -1,4 +1,4 @@
-# Hi, hier ist eine sorgfältig zusammengestellte Sammlung meiner Projekte 👋
+# Hi, hier ist eine Sammlung meiner Projekte 👋
 
 📍 **Stuttgart** | 🤖 **Polyagentmorpher Builder** | 💙 **Tätig bei Capgemini in Stuttgart**
 
