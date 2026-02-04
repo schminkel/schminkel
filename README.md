@@ -30,8 +30,6 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/schminkel)
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/schminkel)
-
 
 ## Connect
 
