@@ -30,6 +30,9 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/schminkel)
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/schminkel)
+
+
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@schminkel-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/schminkel)
