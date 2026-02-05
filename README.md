@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 📅 **[Gantt App](https://schminkel-gantt.vercel.app)** - A simple Gantt chart application built with Next.js for visualizing project timelines. Features a beautiful, mobile-friendly UI that works seamlessly on all devices.
+- 📅 **[Gantt App](https://schminkel-gantt.vercel.app)** - A simple Gantt chart application built for visualizing project timelines. Features a beautiful, mobile-friendly UI that works seamlessly on all devices.
 - 🪣 **[S3 Bucket Dashboard](https://github.com/schminkel/s3-bucket-dashboard)** - A monitoring dashboard for AWS S3 bucket usage that provides an overview of bucket fill levels, tracks storage trends over the last 30 days, and displays total storage consumption across your AWS account.
 - 🔗 **[Link Dashboard](https://links.xtra.tools/)** - An elegant Link Dashboard app featuring categorized link organization, intuitive drag-and-drop interface, and customizable icon management for personalized link collections. Perfect for daily use.
 - 🖥️ **[Slide Deck Online](https://p.xtra.tools/)** - A minimalistic tool for sharing slide decks online. Upload your PDF and instantly present it to the world with no extra hassle.
