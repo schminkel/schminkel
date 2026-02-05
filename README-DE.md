@@ -15,6 +15,7 @@
 
 ## Aktuelle Projekte
 
+- 📅 **[Next.js Gantt App](https://github.com/schminkel/nextjs-gantt-app)** – Eine einfache Gantt-Anwendung, die mit Next.js entwickelt wurde, zur Visualisierung von Projektzeitplänen. Verfügt über eine schöne UI, die auch auf mobilen Endgeräten einwandfrei funktioniert.
 - 🪣 **[S3 Bucket Dashboard](https://github.com/schminkel/s3-bucket-dashboard)** – Ein Monitoring-Dashboard für die AWS S3-Bucket-Nutzung, das eine Übersicht über die Bucket-Befüllung bietet, Speicher-Trends der letzten 30 Tage verfolgt und den Gesamtspeicherverbrauch im AWS Account anzeigt.
 - 🔗 **[Link Dashboard](https://links.xtra.tools/)** – Eine elegante Link-Dashboard-App mit kategorisierter Linkverwaltung, intuitiver Drag-and-Drop-Oberfläche und anpassbarem Icon-Management für persönliche Linksammlungen. Perfekt für den täglichen Einsatz.  
 - 🖥️ **[Slide Deck Online](https://p.xtra.tools/)** – Ein minimalistisches Tool zum Online-Teilen von Präsentationen. Lade dein PDF hoch und präsentiere es sofort weltweit – ganz ohne zusätzlichen Aufwand.  
